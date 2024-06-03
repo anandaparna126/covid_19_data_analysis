@@ -1,4 +1,5 @@
-**COVID-19 Dataset Exploratory Data Analysis (EDA) using Python**
+<h3>**COVID-19 Dataset Exploratory Data Analysis (EDA) using Python**</h3>
+
 **Overview**
 This repository contains an exploratory data analysis (EDA) of a COVID-19 dataset using Python. The dataset includes information on confirmed cases, deaths, and recoveries across various regions as of April 29, 2020.
 
